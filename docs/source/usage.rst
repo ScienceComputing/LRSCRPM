@@ -14,7 +14,7 @@ To use BLAZE, first download it using wget and decompress it using unzip:
    $ unzip BLAZE_v1.1.0.zip
 
 Generating the putative barcode and barcode whitelist
-----------------
+-----------------------------------------------------
 
 .. code-block:: console
 
