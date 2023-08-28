@@ -17,6 +17,7 @@ Generating the putative barcode and barcode whitelist
 ----------------
 
 .. code-block:: console
+
    $ pip install Biopython pandas numpy tqdm matplotlib levenshtein
    $ python3 blaze.py --expect-cells=1000 --threads=20 path/to/fastq_pass
 
